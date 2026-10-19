@@ -14,21 +14,22 @@ The MATLAB files are organized according to the figures presented in the manuscr
 
 ### Main Figures
 
-- `Fig2.m` — Figure 2.
-- `Fig3.m` — Figure 3.
-- `Fig4.m` — Figure 4.
-- `Fig5.m` — Figure 5.
+- `Fig2.m` — Fig 2.
+- `Fig3.m` — Fig 3.
+- `Fig4.m` — Fig 4.
+- `Fig5.m` — Fig 5.
 
 ### Additional Calculations for Figure 5
 
-- `Fig5a_Lifetime_vs_a.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to Figure 5(a).
-- `Fig5bd_Lifetime_vs_a_Small.m` — Lifetime calculations for different values of the parameter $a \in (0.0053, 0.0059)$, corresponding to Figures 5(b,d).
-- `Fig5bd_Lifetime_vs_a_Big.m` — Lifetime calculations for different values of the parameter $a \in (0.006, 0.01)$, corresponding to Figures 5(b,d).
-- `Fig5c_Lifetime_vs_a.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to Figure 5(c).
+- `Fig5a_Lifetime_vs_a.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to Fig 5(a).
+- `Fig5bd_Lifetime_vs_a_Small.m` — Lifetime calculations for different values of the parameter $a \in (0.0053, 0.0059)$, corresponding to Fig 5(b,d).
+- `Fig5bd_Lifetime_vs_a_Big.m` — Lifetime calculations for different values of the parameter $a \in (0.006, 0.01)$, corresponding to
+  Fig 5(b,d).
+- `Fig5c_Lifetime_vs_a.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to Fig 5(c).
 
 ### Supplementary Information
 
-- `Supplementary_Fig1.m` — Supplementary Figure 1.
+- `Supplementary_Fig1.m` — Supplementary Fig 1.
 
 ### Supporting Functions
 
