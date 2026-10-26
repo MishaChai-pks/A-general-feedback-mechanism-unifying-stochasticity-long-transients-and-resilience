@@ -13,19 +13,19 @@ The code accompanies our study of a general feedback mechanism unifying stochast
 The MATLAB files are organized according to the figures presented in the manuscript.
 
 ### Main Figures
-
+- `Fig1.m` — Fig 1.
 - `Fig2.m` — Fig 2.
 - `Fig3.m` — Fig 3.
 - `Fig4.m` — Fig 4.
-- `Fig5.m` — Fig 5.
+- `Fig5_And_Fig6.m` — Fig 5 and Fig 6.
 
-### Additional Calculations for Figure 5
+### Additional Calculations for Fig 5 and Fig 6
 
-- `Fig5a_Lifetime_vs_a.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to Fig 5(a).
-- `Fig5bd_Lifetime_vs_a_Small.m` — Lifetime calculations for different values of the parameter $a \in (0.0053, 0.0059)$, corresponding to Fig 5(b,d).
-- `Fig5bd_Lifetime_vs_a_Big.m` — Lifetime calculations for different values of the parameter $a \in (0.006, 0.01)$, corresponding to
-  Fig 5(b,d).
-- `Fig5c_Lifetime_vs_a.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to Fig 5(c).
+- `Fig5_a_UpperPanel.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to the upper panel of Fig 5.
+- `Fig5_a_BottomPanel.m` — Lifetime calculations for different values of the parameter \(a\), corresponding to the bottom panel of Fig 5.
+
+- `Fig6_a_Small.m` — Lifetime calculations for different values of the parameter $a \in (0.0053, 0.0059)$, corresponding to Fig 6.
+- `Fig6_a_Big.m` — Lifetime calculations for different values of the parameter $a \in (0.006, 0.01)$, corresponding to Fig 6.
 
 ### Supplementary Information
 
